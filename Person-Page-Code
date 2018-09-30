@@ -1,0 +1,265 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<title> System Level Design Group | People </title>
+		
+		<!-- Load Global Template StyleSheet -->
+		<link type="text/css" media="screen" rel="stylesheet" href="../Global/stylesheets/global.css" />
+		<!-- Load People Page Stylesheets -->
+		<link type="text/css" media="screen" rel="stylesheet" href="./stylesheets/people.css" />
+		
+		<!--[if IE 6]><script type="text/javascript" src="scripts/DD_belatedPNG_0.0.7a.js"></script> 
+		<script type="text/javascript" src="scripts/png_fix_elements.js"></script> <![endif]-->
+		<style type="text/css">
+			/*<![CDATA[*/
+			<!--.tablebold {    font-weight: bold;}-->
+			/*]]>*/
+		</style>
+	</head>
+	
+	
+	<body>
+		<!-- Global Header -->
+		<div id="header">
+			<table width="937" border="0">
+				<tr>
+					<td width="239"></td>
+				</tr>
+			</table>
+			<!-- Navigational Links -->
+			<ul>
+				<li><a href="..">Home</a></li>
+				<li><a href="." class="active">People</a></li>
+				<li><a href="../research">Research</a></li>
+				<li><a href="../publications">Publications</a></li>
+				<li><a href="../openings">Openings</a></li>
+				<li><a href="../sponsors">Sponsors</a></li>
+			</ul>
+		</div>
+					
+		<!-- People Page Content -->
+		<div id="content" class="clearfix">
+			<div id="content-inner">
+			
+			<div id="sub-header">
+			<p> People</p>
+			<h4>&nbsp;</h4>
+			</div>
+			
+			
+				<div class="column main">
+					<h3>
+						Faculty
+					</h3>
+					<table id="peopleTables">
+						<tr>
+							<td width="5%">
+								<img src="./img/radu.jpg" alt="" width="80" height="100" />
+							</td>
+							<td width="95%">
+								<a href="http://www.ece.cmu.edu/directory/details/109/" title="http://www.ece.cmu.edu/directory/details/109/" rel="nofollow">Radu Marculescu</a><br />
+								<p>
+									Carnegie Mellon University<br />
+									Office: HH 2108<br />
+									Phone:&nbsp;<span dir="ltr" tabindex="-1"><span dir="ltr" skypeaction="skype_dropdown" title="Call this phone number in United States of America with Skype: +14122688710"><span skypeaction="skype_dropdown" title="Skype actions">&nbsp;</span>412-268-8710&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;</span><br />
+									Email: radum@cmu.edu
+								</p>
+							</td>
+						</tr>
+					</table>
+					<h3>
+						&nbsp;
+					</h3>
+					<h3>
+						Post-Doctoral Researcher
+					</h3>
+					<table id="peopleTables">
+						<tr>
+							<td width="5%">
+								<img src="./img/RyanKim.jpg" alt="" width="80" height="100" /> 
+							</td>
+							<td width="28%">
+								<p>
+									Ryan Kim<br />
+									Post Doctoral Researcher<br />
+									Office: HH 2134 <br />
+									Email: rygkim@gmail.com
+								</p>
+							</td>
+							<!--<td width="5%">
+                                                                <img src="./img/F.JPG" alt="" width="80" height="100" />
+                                                        </td>-->
+                                                        <td width="29%">
+                                                                <!--<p>
+                                                                        Filipe Condessa<br />
+                                                                        Post Doctoral Researcher<br />
+                                                                        Office: HH 2132 <br />
+                                                                        Email: condessa@cmu.edu
+                                                                </p>-->
+                                                        </td> 
+						</tr>
+					</table>
+					<h3>
+						&nbsp;
+					</h3>
+					<h3>
+						Current PhD Students
+					</h3>
+					<table id="peopleTables">
+						<tr>
+					<!--		<td width="5%">
+								<img src="./img/irina.jpg" alt="" width="80" height="100" />
+							</td>
+							<td width="28%">
+								<p>
+									Irina Cazan<br />
+                                                                        Ph.D. Student, CMU<br />
+                                                                        Office: HH 2134<br />
+                                                                        Email: icazan@andrew.cmu.edu
+								</p>
+							</td> -->
+							<td width="5%">
+								<img src="./img/chieh.jpg" alt="" width="100" height="100" />
+							</td>
+							<td width="28%">
+								<p>
+									Chieh Lo<br />
+									Ph.D. Student, CMU<br />
+									Office: HH 2134<br />
+									Email: chiehl@andrew.cmu.edu
+								</p>
+							</td>
+							<td width="5%">
+								 <img src="./img/kartikeya.jpg" alt="" width="90" height="100" /> 
+							</td>
+							<td width="29%">
+								<p>
+									Kartikeya Bhardwaj<br />
+									Ph.D. Student, CMU<br />
+									Office: HH 2134<br />
+									Email: kbhardwa@andrew.cmu.edu
+								</p>
+							</td>
+							<td width="5%">
+								 <img src="./img/markb1.jpg" alt="" width="90" height="100" /> 
+							</td>
+							<td width="29%">
+								<p>
+									Mark Blanco<br />
+									Ph.D. Student, CMU<br />
+									Office: HH 2134<br />
+									Email: markb1@andrew.cmu.edu
+								</p>
+							</td>
+						</tr>
+					</table>
+					
+
+
+
+					<p>
+						<br />
+					</p>
+					<h3>
+						Current Undergraduate &amp; Master's Students
+					</h3>
+					<table id="peopleTables">
+						<tr>
+							<!--<td width="5%">
+							</td>
+							<td width="50%">
+								<p>
+									Christi Martin  <br />
+									Email: cmartin1@andrew.cmu.edu
+								</p>
+							</td>
+							<td width="5%">
+							</td>
+							<td width="40%">
+								<p>
+									Evan Atkins  <br />
+									Email: eadkins@andrew.cmu.edu
+								</p>
+							</td>-->
+
+							<td width="5%">
+								<!-- Insert Picture -->
+							</td>
+							<td width="50%">
+								<p>
+									Sergio Claure  <br />
+									Email: sclaure@andrew.cmu.edu
+								</p>
+							</td>
+							<td width="5%">
+								<!-- Insert Picture -->
+							</td>
+							<td width="40%">
+								<p>
+									Aravind Vadali  <br />
+									Email: avadali@andrew.cmu.edu
+								</p>
+							</td>
+						</tr>
+					</table>
+					<p>
+						<br />
+					</p>
+					<h3>
+						Current &amp; Recent Visitors
+					</h3>
+					<table id="peopleTables">
+				<!--		<tr>
+							<td width="5%">
+								<img src="./img/RyanKim.jpg" alt="" width="80" height="100" /> 
+							</td>
+							<td width="95%">
+								<p>
+									Ryan Kim<br />
+									Post doc <br />
+									Email: rygkim@gmail.com
+								</p>
+							</td>  
+						</tr> -->
+					</table>
+					<p>
+						<br />
+					</p>
+					<h3>
+						<a href="./alumni">Alumni & Graduates</a>
+					</h3>
+					<p>
+						<br /><br />
+					</p>
+
+				</div>
+			</div>
+		</div><!-- //#content -->
+		<div id="footer">
+			<ul>
+				<li>
+					<a href="..">Home</a>
+				</li>
+				<li>
+					<a href="." class="active">People</a>
+				</li>
+				<li>
+					<a href="../research">Research</a>
+				</li>
+				<li>
+					<a href="../publications">Publications</a>
+				</li>
+				<li>
+					<a href="../openings">Openings</a>
+				</li>
+				<li>
+				<li><a href="../sponsors">Sponsors</a></li>
+			</ul>
+			<p>
+				Copyright 2018 <a href="..">SLD Group @ CMU</a>
+			</p>
+		</div><!-- //#footer -->
+	</body>
+</html>
